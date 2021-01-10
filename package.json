@@ -1,0 +1,30 @@
+{
+  "name": "servidor",
+  "version": "1.0.0",
+  "description": "pequeño pero cumpidor ",
+  "main": "index.js",
+  "scripts": {
+  "jhonny":"node index.js",
+  "serve":"npm run jhonny",
+  "start":"node index.js"
+},
+  "keywords": [
+    "express",
+    "framework",
+    "sinatra",
+    "web",
+    "reset",
+    "resful",
+    "router",
+    "app",
+    "api"
+  ],
+  "author": "jhonnyCe",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0"
+  }
+}
