@@ -34,3 +34,9 @@ git add .
 git commit -m "Mensaje2"
 git push origin master
 ```
+-   para clonar un repositorio
+```
+abrir direccion a clonar el cmd
+git clone https://github.com/Ciljhon/curso-nodejs.git
+npm i
+```
